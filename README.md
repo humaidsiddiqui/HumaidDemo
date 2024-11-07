@@ -1,3 +1,3 @@
 # HumaidDemo
 This is Just an Tutorial Video that I'm teaching to my students <br>
-Author: Humaid Siddiqui
+Author:  Mohammed Humaid Siddiqui
